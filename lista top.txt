@@ -1,0 +1,1500 @@
+#EXTINF:-1,A&E
+http://cms-eu-01.casap2p.online:8080/valente/123456/3426
+#EXTINF:-1,A&E 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3311
+#EXTINF:-1,A&E HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3427
+#EXTINF:-1,AMC
+http://cms-eu-01.casap2p.online:8080/valente/123456/3430
+#EXTINF:-1,AMC 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3312
+#EXTINF:-1,AMC HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3431
+#EXTINF:-1,Animal Planet
+http://cms-eu-01.casap2p.online:8080/valente/123456/3432
+#EXTINF:-1,ANIMAL PLANET 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3313
+#EXTINF:-1,ANIMAL PLANET HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3433
+#EXTINF:-1,ARTE 1
+http://cms-eu-01.casap2p.online:8080/valente/123456/3435
+#EXTINF:-1,ARTE 1 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/7079
+#EXTINF:-1,ARTE 1 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3434
+#EXTINF:-1,AXN
+http://cms-eu-01.casap2p.online:8080/valente/123456/3428
+#EXTINF:-1,AXN 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6748
+#EXTINF:-1,AXN 4K ( LEGENDADOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/52100
+#EXTINF:-1,AXN HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/7135
+#EXTINF:-1,BABY TV
+http://cms-eu-01.casap2p.online:8080/valente/123456/3441
+#EXTINF:-1,BABY TV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6751
+#EXTINF:-1,BAND CAMPINAS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57685
+#EXTINF:-1,BAND CAMPINAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57686
+#EXTINF:-1,BAND CURITIBA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57687
+#EXTINF:-1,BAND CURITIBA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57688
+#EXTINF:-1,BAND GOIANIA
+http://cms-eu-01.casap2p.online:8080/valente/123456/57689
+#EXTINF:-1,BAND GOIANIA SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57690
+#EXTINF:-1,BAND MINAS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58444
+#EXTINF:-1,BAND MINAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58443
+#EXTINF:-1,Band News
+http://cms-eu-01.casap2p.online:8080/valente/123456/3442
+#EXTINF:-1,BAND NEWS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3316
+#EXTINF:-1,BAND NEWS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3443
+#EXTINF:-1,Band RJ
+http://cms-eu-01.casap2p.online:8080/valente/123456/57693
+#EXTINF:-1,Band RJ HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57694
+#EXTINF:-1,BAND SP
+http://cms-eu-01.casap2p.online:8080/valente/123456/3723
+#EXTINF:-1,BAND SP 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3317
+#EXTINF:-1,BAND SP HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3448
+#EXTINF:-1,BAND SPORTS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57697
+#EXTINF:-1,BAND SPORTS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3445
+#EXTINF:-1,BAND SPORTS SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3444
+#EXTINF:-1,BAND Tv Taroba HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57700
+#EXTINF:-1,BIS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3439
+#EXTINF:-1,BIS SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3438
+#EXTINF:-1,BOOMERANG 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3318
+#EXTINF:-1,BOOMERANG HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3437
+#EXTINF:-1,BOOMERANG SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3436
+#EXTINF:-1,CANAL BRASIL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/26961
+#EXTINF:-1,CANAL BRASIL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/26962
+#EXTINF:-1,CANAL DO BOI
+http://cms-eu-01.casap2p.online:8080/valente/123456/57727
+#EXTINF:-1,CANAL SONY 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3380
+#EXTINF:-1,CANAL SONY HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3697
+#EXTINF:-1,CANAL SONY SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3698
+#EXTINF:-1,CANÇÃO NOVA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6439
+#EXTINF:-1,CANÇÃO NOVA SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57730
+#EXTINF:-1,CARTOON NETWORK 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3319
+#EXTINF:-1,CARTOON NETWORK HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3694
+#EXTINF:-1,CARTOON NETWORK SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3695
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/57740
+#EXTINF:-1,CHEF TV FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57741
+#EXTINF:-1,CHEF TV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57742
+#EXTINF:-1,CINE PIPOCA 01
+http://cms-eu-01.casap2p.online:8080/valente/123456/57743
+#EXTINF:-1,Cine Pipoca 3
+http://cms-eu-01.casap2p.online:8080/valente/123456/19384
+#EXTINF:-1,Cine Pipoca 4
+http://cms-eu-01.casap2p.online:8080/valente/123456/23760
+#EXTINF:-1,Cine Pipoca 5
+http://cms-eu-01.casap2p.online:8080/valente/123456/19386
+#EXTINF:-1,Cine Pipoca 6
+http://cms-eu-01.casap2p.online:8080/valente/123456/19387
+#EXTINF:-1,CINEMAX 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3320
+#EXTINF:-1,CINEMAX HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3692
+#EXTINF:-1,CINEMAX SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3693
+#EXTINF:-1,CNN Brasil 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/52074
+#EXTINF:-1,CNN Brasil HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/11247
+#EXTINF:-1,CNN Brasil SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/11246
+#EXTINF:-1,CNN Espanhol
+http://cms-eu-01.casap2p.online:8080/valente/123456/57753
+#EXTINF:-1,CNN Internacional
+http://cms-eu-01.casap2p.online:8080/valente/123456/57754
+#EXTINF:-1,COMBATE
+http://cms-eu-01.casap2p.online:8080/valente/123456/3688
+#EXTINF:-1,COMBATE 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3321
+#EXTINF:-1,COMBATE HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3687
+#EXTINF:-1,COMEDY CENTRAL
+http://cms-eu-01.casap2p.online:8080/valente/123456/3686
+#EXTINF:-1,COMEDY CENTRAL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3322
+#EXTINF:-1,COMEDY CENTRAL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3685
+#EXTINF:-1,CULTURA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3779
+#EXTINF:-1,CURTA
+http://cms-eu-01.casap2p.online:8080/valente/123456/6453
+#EXTINF:-1,CURTA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6452
+#EXTINF:-1,DAZN 1
+http://cms-eu-01.casap2p.online:8080/valente/123456/57782
+#EXTINF:-1,DAZN 2
+http://cms-eu-01.casap2p.online:8080/valente/123456/57783
+#EXTINF:-1,DAZN 3
+http://cms-eu-01.casap2p.online:8080/valente/123456/57784
+#EXTINF:-1,DAZN BR
+http://cms-eu-01.casap2p.online:8080/valente/123456/57785
+#EXTINF:-1,Desenhos Biblicos 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/57787
+#EXTINF:-1,DF - Hunter 80s
+http://cms-eu-01.casap2p.online:8080/valente/123456/57789
+#EXTINF:-1,DF - HUNTER FM 102.7
+http://cms-eu-01.casap2p.online:8080/valente/123456/57790
+#EXTINF:-1,DF - Hunter Fresh
+http://cms-eu-01.casap2p.online:8080/valente/123456/57791
+#EXTINF:-1,DF - Hunter Gospel
+http://cms-eu-01.casap2p.online:8080/valente/123456/57792
+#EXTINF:-1,DF - Hunter LO-FI
+http://cms-eu-01.casap2p.online:8080/valente/123456/57793
+#EXTINF:-1,DF - Hunter Pisadinha
+http://cms-eu-01.casap2p.online:8080/valente/123456/57794
+#EXTINF:-1,DF - Hunter POP2KS
+http://cms-eu-01.casap2p.online:8080/valente/123456/57795
+#EXTINF:-1,DF - Hunter Rock
+http://cms-eu-01.casap2p.online:8080/valente/123456/57796
+#EXTINF:-1,DF - Hunter Sertanejo
+http://cms-eu-01.casap2p.online:8080/valente/123456/57797
+#EXTINF:-1,DF - Hunter Tropical
+http://cms-eu-01.casap2p.online:8080/valente/123456/57798
+#EXTINF:-1,DF - Joven Pan FM 106.3
+http://cms-eu-01.casap2p.online:8080/valente/123456/57799
+#EXTINF:-1,DF - Kiss FM 102.3
+http://cms-eu-01.casap2p.online:8080/valente/123456/57800
+#EXTINF:-1,DF - Transamerica FM 100.1
+http://cms-eu-01.casap2p.online:8080/valente/123456/57801
+#EXTINF:-1,DISCOVERY CHANNEL
+http://cms-eu-01.casap2p.online:8080/valente/123456/3683
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6008
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3682
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://cms-eu-01.casap2p.online:8080/valente/123456/3726
+#EXTINF:-1,DISCOVERY HOME & HEALTH 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3326
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3781
+#EXTINF:-1,DISCOVERY KIDS
+http://cms-eu-01.casap2p.online:8080/valente/123456/3678
+#EXTINF:-1,DISCOVERY KIDS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3327
+#EXTINF:-1,DISCOVERY KIDS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3677
+#EXTINF:-1,DISCOVERY SCIENCE
+http://cms-eu-01.casap2p.online:8080/valente/123456/3727
+#EXTINF:-1,DISCOVERY SCIENCE 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3328
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3676
+#EXTINF:-1,DISCOVERY THEATER
+http://cms-eu-01.casap2p.online:8080/valente/123456/3728
+#EXTINF:-1,DISCOVERY THEATER 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3329
+#EXTINF:-1,DISCOVERY THEATER HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6800
+#EXTINF:-1,DISCOVERY TLC 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57809
+#EXTINF:-1,DISCOVERY TLC HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3782
+#EXTINF:-1,DISCOVERY TLC SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3729
+#EXTINF:-1,DISCOVERY TURBO 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3330
+#EXTINF:-1,DISCOVERY TURBO HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3673
+#EXTINF:-1,DISCOVERY TURBO SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3674
+#EXTINF:-1,DISCOVERY WORLD 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3331
+#EXTINF:-1,DISCOVERY WORLD HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3672
+#EXTINF:-1,DISCOVERY WORLD SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3730
+#EXTINF:-1,DISNEY CHANNEL
+http://cms-eu-01.casap2p.online:8080/valente/123456/3731
+#EXTINF:-1,DISNEY CHANNEL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6810
+#EXTINF:-1,DISNEY CHANNEL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3670
+#EXTINF:-1,DISNEY JR
+http://cms-eu-01.casap2p.online:8080/valente/123456/3732
+#EXTINF:-1,DISNEY JR 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6814
+#EXTINF:-1,DISNEY JR HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3669
+#EXTINF:-1,Disney XD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3667
+#EXTINF:-1,DISNEY XD 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6048
+#EXTINF:-1,DISNEY XD HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3666
+#EXTINF:-1,Doug 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/57833
+#EXTINF:-1,DRAGON BALL 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/57834
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/57835
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/57836
+#EXTINF:-1,E! 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57838
+#EXTINF:-1,E! HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3663
+#EXTINF:-1,E! SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3664
+#EXTINF:-1,ELEVEN SPORTS 1
+http://cms-eu-01.casap2p.online:8080/valente/123456/57845
+#EXTINF:-1,ELEVEN SPORTS 10
+http://cms-eu-01.casap2p.online:8080/valente/123456/57854
+#EXTINF:-1,ELEVEN SPORTS 2
+http://cms-eu-01.casap2p.online:8080/valente/123456/57846
+#EXTINF:-1,ELEVEN SPORTS 3
+http://cms-eu-01.casap2p.online:8080/valente/123456/57847
+#EXTINF:-1,ELEVEN SPORTS 4
+http://cms-eu-01.casap2p.online:8080/valente/123456/57848
+#EXTINF:-1,ELEVEN SPORTS 5
+http://cms-eu-01.casap2p.online:8080/valente/123456/57849
+#EXTINF:-1,ELEVEN SPORTS 6
+http://cms-eu-01.casap2p.online:8080/valente/123456/57850
+#EXTINF:-1,ELEVEN SPORTS 7
+http://cms-eu-01.casap2p.online:8080/valente/123456/57851
+#EXTINF:-1,ELEVEN SPORTS 8
+http://cms-eu-01.casap2p.online:8080/valente/123456/57852
+#EXTINF:-1,ELEVEN SPORTS 9
+http://cms-eu-01.casap2p.online:8080/valente/123456/57853
+#EXTINF:-1,ESPN
+http://cms-eu-01.casap2p.online:8080/valente/123456/3659
+#EXTINF:-1,ESPN 2
+http://cms-eu-01.casap2p.online:8080/valente/123456/46701
+#EXTINF:-1,ESPN 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/46730
+#EXTINF:-1,ESPN BRASIL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/27251
+#EXTINF:-1,ESPN BRASIL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/27260
+#EXTINF:-1,ESPN Brasil¹
+http://cms-eu-01.casap2p.online:8080/valente/123456/46726
+#EXTINF:-1,ESPN EXTRA
+http://cms-eu-01.casap2p.online:8080/valente/123456/18683
+#EXTINF:-1,ESPN EXTRA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6067
+#EXTINF:-1,ESPN HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3654
+#EXTINF:-1,ESPN2 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/46731
+#EXTINF:-1,ESPN2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/46732
+#EXTINF:-1,ESTÁDIO TNT SPORTS 1
+http://cms-eu-01.casap2p.online:8080/valente/123456/57870
+#EXTINF:-1,ESTÁDIO TNT SPORTS 2
+http://cms-eu-01.casap2p.online:8080/valente/123456/57871
+#EXTINF:-1,ESTÁDIO TNT SPORTS 3
+http://cms-eu-01.casap2p.online:8080/valente/123456/57872
+#EXTINF:-1,EVANGELIZAR
+http://cms-eu-01.casap2p.online:8080/valente/123456/57874
+#EXTINF:-1,FILM & ART 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57875
+#EXTINF:-1,Film & Arts
+http://cms-eu-01.casap2p.online:8080/valente/123456/3652
+#EXTINF:-1,FILM & ARTS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6474
+#EXTINF:-1,FISH TV
+http://cms-eu-01.casap2p.online:8080/valente/123456/6476
+#EXTINF:-1,FISH TV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6830
+#EXTINF:-1,Food Network
+http://cms-eu-01.casap2p.online:8080/valente/123456/3650
+#EXTINF:-1,FOOD NETWORK 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3338
+#EXTINF:-1,FOOD NETWORK HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3649
+#EXTINF:-1,FOX SPORTS 2 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3342
+#EXTINF:-1,FOX SPORTS 2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3640
+#EXTINF:-1,FOX SPORTS 2 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3641
+#EXTINF:-1,FOX SPORTS 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/46943
+#EXTINF:-1,Fox Sports 4k²
+http://cms-eu-01.casap2p.online:8080/valente/123456/46954
+#EXTINF:-1,Fox Sports HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/46955
+#EXTINF:-1,FOX SPORTS SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/46725
+#EXTINF:-1,FOX SPORTS¹ HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/46921
+#EXTINF:-1,FURACÃO PLAY
+http://cms-eu-01.casap2p.online:8080/valente/123456/57897
+#EXTINF:-1,FUTURA
+http://cms-eu-01.casap2p.online:8080/valente/123456/6853
+#EXTINF:-1,FUTURA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6852
+#EXTINF:-1,FX
+http://cms-eu-01.casap2p.online:8080/valente/123456/3637
+#EXTINF:-1,FX 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3344
+#EXTINF:-1,FX HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3636
+#EXTINF:-1,Galinha Pintadinha 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/57905
+#EXTINF:-1,Gazeta 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57906
+#EXTINF:-1,Globo 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57907
+#EXTINF:-1,GLOBO BAHIA
+http://cms-eu-01.casap2p.online:8080/valente/123456/18782
+#EXTINF:-1,GLOBO BAHIA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/16770
+#EXTINF:-1,GLOBO BRASILIA
+http://cms-eu-01.casap2p.online:8080/valente/123456/5007
+#EXTINF:-1,Globo BRASILIA 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57911
+#EXTINF:-1,GLOBO BRASILIA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/5006
+#EXTINF:-1,Globo EPTV Campinas
+http://cms-eu-01.casap2p.online:8080/valente/123456/5009
+#EXTINF:-1,Globo EPTV CAMPINAS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57919
+#EXTINF:-1,Globo EPTV Campinas HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/5008
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://cms-eu-01.casap2p.online:8080/valente/123456/18736
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+http://cms-eu-01.casap2p.online:8080/valente/123456/6862
+#EXTINF:-1,Globo EPTV SUL DE MINAS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57922
+#EXTINF:-1,Globo EPTV SUL DE MINAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57923
+#EXTINF:-1,GLOBO FLORIANOPOLIS
+http://cms-eu-01.casap2p.online:8080/valente/123456/18738
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57924
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57925
+#EXTINF:-1,GLOBO INTER DO VALE FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57926
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/5012
+#EXTINF:-1,GLOBO INTER VALE MG HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57927
+#EXTINF:-1,GLOBO INTERNACIONAL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6863
+#EXTINF:-1,Globo Internacional HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57928
+#EXTINF:-1,Globo Manaus HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57930
+#EXTINF:-1,Globo Mg 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57931
+#EXTINF:-1,Globo Minas
+http://cms-eu-01.casap2p.online:8080/valente/123456/57932
+#EXTINF:-1,GLOBO MINAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/5013
+#EXTINF:-1,Globo Minas HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57933
+#EXTINF:-1,Globo Mirante HD (MARANHAO)
+http://cms-eu-01.casap2p.online:8080/valente/123456/57934
+#EXTINF:-1,Globo Morena HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57935
+#EXTINF:-1,Globo News
+http://cms-eu-01.casap2p.online:8080/valente/123456/5015
+#EXTINF:-1,GLOBO NEWS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3347
+#EXTINF:-1,GLOBO NEWS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3743
+#EXTINF:-1,GLOBO NORDESTE
+http://cms-eu-01.casap2p.online:8080/valente/123456/5018
+#EXTINF:-1,GLOBO NORDESTE 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6869
+#EXTINF:-1,GLOBO NORDESTE HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57938
+#EXTINF:-1,Globo NSC Blumenau 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/23776
+#EXTINF:-1,Globo NSC Santa Catarina HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57939
+#EXTINF:-1,Globo NSCTV Florianopolis HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57940
+#EXTINF:-1,Globo RBS CAXIAS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57942
+#EXTINF:-1,Globo RBS CAXIAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57943
+#EXTINF:-1,Globo RBS PELOTAS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57944
+#EXTINF:-1,Globo RBS PELOTAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57945
+#EXTINF:-1,Globo RBS POA
+http://cms-eu-01.casap2p.online:8080/valente/123456/57946
+#EXTINF:-1,Globo RBS POA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57947
+#EXTINF:-1,Globo RBS TV STA MARIA
+http://cms-eu-01.casap2p.online:8080/valente/123456/57948
+#EXTINF:-1,Globo Rio Sul HD (INTERIOR RJ)
+http://cms-eu-01.casap2p.online:8080/valente/123456/57949
+#EXTINF:-1,Globo RJ
+http://cms-eu-01.casap2p.online:8080/valente/123456/5047
+#EXTINF:-1,GLOBO RJ 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3349
+#EXTINF:-1,Globo RJ 4K (REGIAO SERRANA)
+http://cms-eu-01.casap2p.online:8080/valente/123456/52407
+#EXTINF:-1,GLOBO RJ HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/18771
+#EXTINF:-1,Globo RJ HD (REGIAO SERRANA)
+http://cms-eu-01.casap2p.online:8080/valente/123456/52409
+#EXTINF:-1,GLOBO RPC CURITIBA 4K (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58446
+#EXTINF:-1,GLOBO RPC CURITIBA HD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58445
+#EXTINF:-1,Globo RPC FOZ DO IGUAÇU 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57950
+#EXTINF:-1,Globo RPC FOZ DO IGUAÇU HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57951
+#EXTINF:-1,Globo RPC Parana HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57952
+#EXTINF:-1,Globo RPC TV Curitiba
+http://cms-eu-01.casap2p.online:8080/valente/123456/57953
+#EXTINF:-1,Globo Santa Cruz Bahia HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57954
+#EXTINF:-1,GLOBO SERGIPE HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6879
+#EXTINF:-1,GLOBO SP
+http://cms-eu-01.casap2p.online:8080/valente/123456/5030
+#EXTINF:-1,GLOBO SP 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3350
+#EXTINF:-1,GLOBO SP HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/5029
+#EXTINF:-1,Globo TRIBUNA 4K (SANTOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/57956
+#EXTINF:-1,Globo TRIBUNA HD (SANTOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/57957
+#EXTINF:-1,Globo TV Bahia 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/23793
+#EXTINF:-1,Globo Asa branca 4K (Caruaru PE)
+http://cms-eu-01.casap2p.online:8080/valente/123456/7074
+#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIABÁ
+http://cms-eu-01.casap2p.online:8080/valente/123456/18783
+#EXTINF:-1,GLOBO TV DIARIO HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58389
+#EXTINF:-1,Globo TV Gazeta 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/23802
+#EXTINF:-1,Globo TV Liberal Belém HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/23806
+#EXTINF:-1,Globo TV Mirante (MARANHAO)
+http://cms-eu-01.casap2p.online:8080/valente/123456/23807
+#EXTINF:-1,Globo TV Morena
+http://cms-eu-01.casap2p.online:8080/valente/123456/23808
+#EXTINF:-1,Globo TV Subae
+http://cms-eu-01.casap2p.online:8080/valente/123456/57958
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://cms-eu-01.casap2p.online:8080/valente/123456/6885
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://cms-eu-01.casap2p.online:8080/valente/123456/3751
+#EXTINF:-1,Globo VANGUARDA 4K (SAO JOSE DOS CAMPOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/57959
+#EXTINF:-1,Globo VANGUARDA HD (SAO JOSE DOS CAMPOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/57960
+#EXTINF:-1,Globo Verdes Mares HD CE
+http://cms-eu-01.casap2p.online:8080/valente/123456/57961
+#EXTINF:-1,Gloob
+http://cms-eu-01.casap2p.online:8080/valente/123456/3617
+#EXTINF:-1,GLOOB 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6892
+#EXTINF:-1,GLOOB HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3616
+#EXTINF:-1,GLOOBINHO 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57968
+#EXTINF:-1,GLOOBINHO HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/26963
+#EXTINF:-1,GLOOBINHO SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57970
+#EXTINF:-1,GNT 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57971
+#EXTINF:-1,GNT HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3613
+#EXTINF:-1,GNT SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3614
+#EXTINF:-1,Gospel Cartoon
+http://cms-eu-01.casap2p.online:8080/valente/123456/57976
+#EXTINF:-1,Guardiões da Galaxia 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/57978
+#EXTINF:-1,H2 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3352
+#EXTINF:-1,H2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3612
+#EXTINF:-1,H2 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3757
+#EXTINF:-1,HBO 2 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3353
+#EXTINF:-1,HBO 2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4039
+#EXTINF:-1,HBO 2 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4033
+#EXTINF:-1,HBO 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3354
+#EXTINF:-1,HBO 4K ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/57993
+#EXTINF:-1,HBO FAMILY
+http://cms-eu-01.casap2p.online:8080/valente/123456/4034
+#EXTINF:-1,HBO FAMILY 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6164
+#EXTINF:-1,HBO FAMILY HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4040
+#EXTINF:-1,HBO HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4041
+#EXTINF:-1,HBO HD ( LENGENDADOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/57995
+#EXTINF:-1,HBO MAX 1 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58471
+#EXTINF:-1,HBO MAX 2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58472
+#EXTINF:-1,HBO MAX 3 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58473
+#EXTINF:-1,HBO MAX 4 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58474
+#EXTINF:-1,HBO MUNDI
+http://cms-eu-01.casap2p.online:8080/valente/123456/18841
+#EXTINF:-1,HBO MUNDI 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/18842
+#EXTINF:-1,HBO MUNDI 4K ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/57998
+#EXTINF:-1,HBO MUNDI HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/18843
+#EXTINF:-1,HBO MUNDI HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58000
+#EXTINF:-1,HBO PLUS
+http://cms-eu-01.casap2p.online:8080/valente/123456/4035
+#EXTINF:-1,HBO PLUS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3355
+#EXTINF:-1,HBO PLUS FHD  ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58004
+#EXTINF:-1,HBO PLUS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4042
+#EXTINF:-1,HBO PLUS HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58006
+#EXTINF:-1,HBO POP
+http://cms-eu-01.casap2p.online:8080/valente/123456/18814
+#EXTINF:-1,HBO POP 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/18848
+#EXTINF:-1,HBO POP 4K ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58010
+#EXTINF:-1,HBO POP HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/18849
+#EXTINF:-1,HBO POP HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58012
+#EXTINF:-1,HBO SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4037
+#EXTINF:-1,HBO SIGNATURE
+http://cms-eu-01.casap2p.online:8080/valente/123456/4038
+#EXTINF:-1,HBO SIGNATURE 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3356
+#EXTINF:-1,HBO SIGNATURE 4K ( LEGENDADOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58017
+#EXTINF:-1,HBO SIGNATURE HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4044
+#EXTINF:-1,HBO SIGNATURE HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58019
+#EXTINF:-1,HBO XTREAM HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58021
+#EXTINF:-1,HBO XTREME
+http://cms-eu-01.casap2p.online:8080/valente/123456/18844
+#EXTINF:-1,HBO XTREME 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58022
+#EXTINF:-1,HBO Xtreme 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58023
+#EXTINF:-1,HBO XTREME 4K ( LEGENDADOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58024
+#EXTINF:-1,HBO XTREME HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/18846
+#EXTINF:-1,HGTV  SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3725
+#EXTINF:-1,HGTV 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3325
+#EXTINF:-1,HGTV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6788
+#EXTINF:-1,Historias Disney 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58031
+#EXTINF:-1,HISTORY CHANNEL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3357
+#EXTINF:-1,HISTORY CHANNEL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3790
+#EXTINF:-1,HISTORY CHANNEL SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3480
+#EXTINF:-1,HOMEMS DE PRETO 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58038
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/3358
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3791
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3761
+#EXTINF:-1,Jack-Chan 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58045
+#EXTINF:-1,JESUS (24H)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58448
+#EXTINF:-1,Kenan e Kel 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58048
+#EXTINF:-1,LIFETIME
+http://cms-eu-01.casap2p.online:8080/valente/123456/18834
+#EXTINF:-1,LIFETIME 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6182
+#EXTINF:-1,LIFETIME HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3592
+#EXTINF:-1,Loading.
+http://cms-eu-01.casap2p.online:8080/valente/123456/58055
+#EXTINF:-1,LUCCAS NETO (24H)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58454
+#EXTINF:-1,MegaMan 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58060
+#EXTINF:-1,MegaPix
+http://cms-eu-01.casap2p.online:8080/valente/123456/3583
+#EXTINF:-1,MEGAPIX 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3360
+#EXTINF:-1,MEGAPIX HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6531
+#EXTINF:-1,MG - 98.0 FM
+http://cms-eu-01.casap2p.online:8080/valente/123456/58066
+#EXTINF:-1,MG - Cultura FM 95.1
+http://cms-eu-01.casap2p.online:8080/valente/123456/58067
+#EXTINF:-1,MG - Itatiaia FM 95.7
+http://cms-eu-01.casap2p.online:8080/valente/123456/58068
+#EXTINF:-1,Mortal Kombat 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58069
+#EXTINF:-1,MTV
+http://cms-eu-01.casap2p.online:8080/valente/123456/5085
+#EXTINF:-1,MTV 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6206
+#EXTINF:-1,MTV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3793
+#EXTINF:-1,Multishow
+http://cms-eu-01.casap2p.online:8080/valente/123456/3579
+#EXTINF:-1,MULTISHOW 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3363
+#EXTINF:-1,MULTISHOW HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3578
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://cms-eu-01.casap2p.online:8080/valente/123456/18861
+#EXTINF:-1,NARUTO 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58081
+#EXTINF:-1,Naruto Shippuden DUB 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58082
+#EXTINF:-1,NATGEO 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/18864
+#EXTINF:-1,NatGeo HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3367
+#EXTINF:-1,NatGeo Kids
+http://cms-eu-01.casap2p.online:8080/valente/123456/3575
+#EXTINF:-1,NATGEO KIDS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6216
+#EXTINF:-1,NATGEO KIDS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3574
+#EXTINF:-1,NatGeo SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3571
+#EXTINF:-1,NatGeo Wild
+http://cms-eu-01.casap2p.online:8080/valente/123456/3573
+#EXTINF:-1,NATGEO WILD 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3366
+#EXTINF:-1,NATGEO WILD HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3572
+#EXTINF:-1,NHK 4K (JAPONES)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58095
+#EXTINF:-1,NHK HD (JAPONES)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58096
+#EXTINF:-1,Nick Jr
+http://cms-eu-01.casap2p.online:8080/valente/123456/3567
+#EXTINF:-1,NICK JR 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3368
+#EXTINF:-1,NICK JR HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3566
+#EXTINF:-1,Nickelodeon
+http://cms-eu-01.casap2p.online:8080/valente/123456/3565
+#EXTINF:-1,NICKELODEON 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/18886
+#EXTINF:-1,NICKELODEON HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3564
+#EXTINF:-1,NOVO TEMPO
+http://cms-eu-01.casap2p.online:8080/valente/123456/3763
+#EXTINF:-1,O Fantástico Mundo de Bobby 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58106
+#EXTINF:-1,O INSPETOR 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58107
+#EXTINF:-1,O MASKARA 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58108
+#EXTINF:-1,O RICO E LAZARO 24HRS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58449
+#EXTINF:-1,OFF
+http://cms-eu-01.casap2p.online:8080/valente/123456/3563
+#EXTINF:-1,OFF 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58109
+#EXTINF:-1,OFF HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3562
+#EXTINF:-1,OS FLINTSTONES 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58115
+#EXTINF:-1,Paramount
+http://cms-eu-01.casap2p.online:8080/valente/123456/3561
+#EXTINF:-1,PARAMOUNT CHANNEL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3369
+#EXTINF:-1,PARAMOUNT HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3560
+#EXTINF:-1,PERNALONGA 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58124
+#EXTINF:-1,Phineas e Ferb 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58125
+#EXTINF:-1,Pink-e-Cerebro 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58127
+#EXTINF:-1,POKEMON 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58129
+#EXTINF:-1,POLISHOP TV
+http://cms-eu-01.casap2p.online:8080/valente/123456/58130
+#EXTINF:-1,POLISHOP TV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58131
+#EXTINF:-1,PREMIERE 2
+http://cms-eu-01.casap2p.online:8080/valente/123456/4059
+#EXTINF:-1,PREMIERE 2 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58139
+#EXTINF:-1,PREMIERE 2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4053
+#EXTINF:-1,PREMIERE 3
+http://cms-eu-01.casap2p.online:8080/valente/123456/4060
+#EXTINF:-1,PREMIERE 3 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58142
+#EXTINF:-1,PREMIERE 3 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4054
+#EXTINF:-1,PREMIERE 4
+http://cms-eu-01.casap2p.online:8080/valente/123456/4061
+#EXTINF:-1,PREMIERE 4 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58145
+#EXTINF:-1,PREMIERE 4 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4055
+#EXTINF:-1,PREMIERE 5
+http://cms-eu-01.casap2p.online:8080/valente/123456/4062
+#EXTINF:-1,PREMIERE 5 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58148
+#EXTINF:-1,PREMIERE 5 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6563
+#EXTINF:-1,PREMIERE 6
+http://cms-eu-01.casap2p.online:8080/valente/123456/4063
+#EXTINF:-1,PREMIERE 6 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58151
+#EXTINF:-1,PREMIERE 6 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6565
+#EXTINF:-1,PREMIERE 7
+http://cms-eu-01.casap2p.online:8080/valente/123456/4064
+#EXTINF:-1,PREMIERE 7 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58154
+#EXTINF:-1,PREMIERE 7 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6567
+#EXTINF:-1,PREMIERE 8 MOSAICO
+http://cms-eu-01.casap2p.online:8080/valente/123456/58157
+#EXTINF:-1,Premiere Clubes (H265) (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58133
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3375
+#EXTINF:-1,PREMIERE CLUBES 4K (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58135
+#EXTINF:-1,Premiere Clubes 4K ²(S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58134
+#EXTINF:-1,PREMIERE CLUBES HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/19381
+#EXTINF:-1,PREMIERE CLUBES HD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58136
+#EXTINF:-1,PREMIERE CLUBES SD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58137
+#EXTINF:-1,PRIME BOX MUSIC
+http://cms-eu-01.casap2p.online:8080/valente/123456/58165
+#EXTINF:-1,RECORD BAHIA
+http://cms-eu-01.casap2p.online:8080/valente/123456/58169
+#EXTINF:-1,RECORD BAHIA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58170
+#EXTINF:-1,RECORD BAHIA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58171
+#EXTINF:-1,RECORD BELÉM HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58172
+#EXTINF:-1,RECORD BELÉM HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58173
+#EXTINF:-1,RECORD BRASILIA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58175
+#EXTINF:-1,Record Campinas
+http://cms-eu-01.casap2p.online:8080/valente/123456/23816
+#EXTINF:-1,Record Campinas HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/23815
+#EXTINF:-1,Record Goias (Goiania)
+http://cms-eu-01.casap2p.online:8080/valente/123456/23828
+#EXTINF:-1,RECORD MANAUS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58181
+#EXTINF:-1,RECORD MINAS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58442
+#EXTINF:-1,RECORD MINAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6299
+#EXTINF:-1,Record News
+http://cms-eu-01.casap2p.online:8080/valente/123456/3527
+#EXTINF:-1,RECORD NEWS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3377
+#EXTINF:-1,RECORD NEWS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3526
+#EXTINF:-1,RECORD PARANA 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58187
+#EXTINF:-1,RECORD PARANA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58188
+#EXTINF:-1,Record RJ
+http://cms-eu-01.casap2p.online:8080/valente/123456/23824
+#EXTINF:-1,RECORD RJ 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58189
+#EXTINF:-1,Record RJ HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/23823
+#EXTINF:-1,RECORD RS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/35050
+#EXTINF:-1,RECORD RS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58190
+#EXTINF:-1,RECORD RS SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/35051
+#EXTINF:-1,RECORD SANTA CATARINA
+http://cms-eu-01.casap2p.online:8080/valente/123456/58191
+#EXTINF:-1,Record SP
+http://cms-eu-01.casap2p.online:8080/valente/123456/3522
+#EXTINF:-1,Record SP 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6292
+#EXTINF:-1,RECORD SP FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58193
+#EXTINF:-1,RECORD SP HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3523
+#EXTINF:-1,RECORD TV
+http://cms-eu-01.casap2p.online:8080/valente/123456/58195
+#EXTINF:-1,RECORD UBERLÂNDIA MG
+http://cms-eu-01.casap2p.online:8080/valente/123456/58196
+#EXTINF:-1,REDE AMAZONICA 4K (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58197
+#EXTINF:-1,REDE AMAZONICA HD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58198
+#EXTINF:-1,Rede Brasil
+http://cms-eu-01.casap2p.online:8080/valente/123456/58200
+#EXTINF:-1,REDE MINAS
+http://cms-eu-01.casap2p.online:8080/valente/123456/18096
+#EXTINF:-1,REDE MINAS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58202
+#EXTINF:-1,Rede TV
+http://cms-eu-01.casap2p.online:8080/valente/123456/17741
+#EXTINF:-1,REDE TV FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58204
+#EXTINF:-1,REDE TV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58205
+#EXTINF:-1,Rede TV! 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58206
+#EXTINF:-1,REDETV 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/18950
+#EXTINF:-1,REDETV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/18952
+#EXTINF:-1,REDETV PAMPA RS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58399
+#EXTINF:-1,RedeTV SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58208
+#EXTINF:-1,REI DO GADO 24H
+http://cms-eu-01.casap2p.online:8080/valente/123456/58451
+#EXTINF:-1,RJ - BeatPlay FM
+http://cms-eu-01.casap2p.online:8080/valente/123456/58210
+#EXTINF:-1,RJ - JB FM 99.9
+http://cms-eu-01.casap2p.online:8080/valente/123456/58211
+#EXTINF:-1,RJ - Tupi FM 96.5
+http://cms-eu-01.casap2p.online:8080/valente/123456/58212
+#EXTINF:-1,RPC CASCAVEL 4K ( S1 )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58213
+#EXTINF:-1,RPC CASCAVEL HD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58214
+#EXTINF:-1,RS - 104 FM
+http://cms-eu-01.casap2p.online:8080/valente/123456/58215
+#EXTINF:-1,RS - 92. FM
+http://cms-eu-01.casap2p.online:8080/valente/123456/58216
+#EXTINF:-1,RS - Alegria FM 92.9
+http://cms-eu-01.casap2p.online:8080/valente/123456/58217
+#EXTINF:-1,RS - Atlântida FM 94.3
+http://cms-eu-01.casap2p.online:8080/valente/123456/58218
+#EXTINF:-1,RS - Gaúcha FM 93.7
+http://cms-eu-01.casap2p.online:8080/valente/123456/58219
+#EXTINF:-1,RS - Guaíba FM 101.3
+http://cms-eu-01.casap2p.online:8080/valente/123456/58220
+#EXTINF:-1,RS - Itapema FM 102.3
+http://cms-eu-01.casap2p.online:8080/valente/123456/58221
+#EXTINF:-1,RS - JovenPan FM 97.5
+http://cms-eu-01.casap2p.online:8080/valente/123456/58222
+#EXTINF:-1,SBT
+http://cms-eu-01.casap2p.online:8080/valente/123456/58224
+#EXTINF:-1,SBT ARATU BAHIA
+http://cms-eu-01.casap2p.online:8080/valente/123456/58227
+#EXTINF:-1,SBT BSB
+http://cms-eu-01.casap2p.online:8080/valente/123456/58228
+#EXTINF:-1,SBT PARANA
+http://cms-eu-01.casap2p.online:8080/valente/123456/58229
+#EXTINF:-1,SBT PARANA FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58230
+#EXTINF:-1,SBT PARANA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58231
+#EXTINF:-1,SBT RJ 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58232
+#EXTINF:-1,SBT RJ HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58233
+#EXTINF:-1,SBT RS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58234
+#EXTINF:-1,SBT SP
+http://cms-eu-01.casap2p.online:8080/valente/123456/3515
+#EXTINF:-1,SBT SP 4k
+http://cms-eu-01.casap2p.online:8080/valente/123456/18956
+#EXTINF:-1,SBT SP HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3513
+#EXTINF:-1,SBT TV TAMBAU
+http://cms-eu-01.casap2p.online:8080/valente/123456/58404
+#EXTINF:-1,SESC TV
+http://cms-eu-01.casap2p.online:8080/valente/123456/58209
+#EXTINF:-1,SKY PLAY 01
+http://cms-eu-01.casap2p.online:8080/valente/123456/58241
+#EXTINF:-1,SKY PLAY 02
+http://cms-eu-01.casap2p.online:8080/valente/123456/58242
+#EXTINF:-1,SKY PLAY 03
+http://cms-eu-01.casap2p.online:8080/valente/123456/58243
+#EXTINF:-1,SKY PLAY 04
+http://cms-eu-01.casap2p.online:8080/valente/123456/58244
+#EXTINF:-1,SKY PLAY 05
+http://cms-eu-01.casap2p.online:8080/valente/123456/58245
+#EXTINF:-1,Smallville 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58246
+#EXTINF:-1,Sobrenatural 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58248
+#EXTINF:-1,SP - Antena 1 FM 94.7
+http://cms-eu-01.casap2p.online:8080/valente/123456/58253
+#EXTINF:-1,SP - Coca Cola FM
+http://cms-eu-01.casap2p.online:8080/valente/123456/58254
+#EXTINF:-1,SP - Mix FM 106.3
+http://cms-eu-01.casap2p.online:8080/valente/123456/58256
+#EXTINF:-1,SP - Radio Globo FM 92.5
+http://cms-eu-01.casap2p.online:8080/valente/123456/58257
+#EXTINF:-1,SP - Top FM 100.5
+http://cms-eu-01.casap2p.online:8080/valente/123456/58258
+#EXTINF:-1,SP - Tropical FM 107.9
+http://cms-eu-01.casap2p.online:8080/valente/123456/58259
+#EXTINF:-1,Space
+http://cms-eu-01.casap2p.online:8080/valente/123456/3511
+#EXTINF:-1,SPACE 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3381
+#EXTINF:-1,SPACE HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3510
+#EXTINF:-1,SPORTV 2 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3382
+#EXTINF:-1,SPORTV 2 4K (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58267
+#EXTINF:-1,SPORTV 2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3507
+#EXTINF:-1,SPORTV 2 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58268
+#EXTINF:-1,SPORTV 3 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58269
+#EXTINF:-1,SPORTV 3 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58270
+#EXTINF:-1,SPORTV 3 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58271
+#EXTINF:-1,SporTv 4 (H.265) (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58272
+#EXTINF:-1,SPORTV 4 4K (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58273
+#EXTINF:-1,SPORTV 4 HD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58274
+#EXTINF:-1,SPORTV 4 SD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58275
+#EXTINF:-1,SPORTV 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/46536
+#EXTINF:-1,SporTV 4K (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58264
+#EXTINF:-1,SPORTV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/46723
+#EXTINF:-1,SPORTV HD (S1) ²
+http://cms-eu-01.casap2p.online:8080/valente/123456/58265
+#EXTINF:-1,SPORTV SD (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58266
+#EXTINF:-1,SporTV2 (H265) (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58276
+#EXTINF:-1,SporTV3 (H265) (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58277
+#EXTINF:-1,STAR +
+http://cms-eu-01.casap2p.online:8080/valente/123456/58475
+#EXTINF:-1,STAR + (2)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58476
+#EXTINF:-1,STAR + (3)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58477
+#EXTINF:-1,Star Channel 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58279
+#EXTINF:-1,STAR CHANNEL FHD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58281
+#EXTINF:-1,STAR CHANNEL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58282
+#EXTINF:-1,STAR CHANNEL HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58283
+#EXTINF:-1,STAR CHANNEL SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58284
+#EXTINF:-1,Star Hits 2 (H265)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58286
+#EXTINF:-1,STAR HITS 2 FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58287
+#EXTINF:-1,STAR HITS 2 FHD ( LEGENDADOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58288
+#EXTINF:-1,STAR HITS 2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58289
+#EXTINF:-1,STAR HITS 2 HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58290
+#EXTINF:-1,STAR HITS 2 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58291
+#EXTINF:-1,STAR HITS FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58292
+#EXTINF:-1,STAR HITS FHD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58293
+#EXTINF:-1,STAR HITS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58294
+#EXTINF:-1,STAR HITS HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58295
+#EXTINF:-1,STAR HITS SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58296
+#EXTINF:-1,STAR LIFE 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58297
+#EXTINF:-1,STAR LIFE HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58298
+#EXTINF:-1,STAR LIFE SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58299
+#EXTINF:-1,Studio Universal
+http://cms-eu-01.casap2p.online:8080/valente/123456/3502
+#EXTINF:-1,STUDIO UNIVERSAL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3385
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3501
+#EXTINF:-1,Super Choque 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58305
+#EXTINF:-1,Superman 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58306
+#EXTINF:-1,Syfy
+http://cms-eu-01.casap2p.online:8080/valente/123456/3500
+#EXTINF:-1,SYFY 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3386
+#EXTINF:-1,SYFY HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3499
+#EXTINF:-1,TBS
+http://cms-eu-01.casap2p.online:8080/valente/123456/3498
+#EXTINF:-1,TBS 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58312
+#EXTINF:-1,TBS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3497
+#EXTINF:-1,TCM
+http://cms-eu-01.casap2p.online:8080/valente/123456/3496
+#EXTINF:-1,TCM HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3495
+#EXTINF:-1,TELECINE ACTION
+http://cms-eu-01.casap2p.online:8080/valente/123456/4021
+#EXTINF:-1,TELECINE ACTION 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3387
+#EXTINF:-1,TELECINE ACTION FHD  ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58319
+#EXTINF:-1,TELECINE ACTION HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4027
+#EXTINF:-1,TELECINE ACTION HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58321
+#EXTINF:-1,TELECINE CULT
+http://cms-eu-01.casap2p.online:8080/valente/123456/4022
+#EXTINF:-1,TELECINE CULT 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3388
+#EXTINF:-1,TELECINE CULT FHD ( LEGENDADOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58325
+#EXTINF:-1,TELECINE CULT HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4028
+#EXTINF:-1,TELECINE CULT HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58327
+#EXTINF:-1,TELECINE FUN
+http://cms-eu-01.casap2p.online:8080/valente/123456/4023
+#EXTINF:-1,TELECINE FUN 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3389
+#EXTINF:-1,TELECINE FUN FHD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58331
+#EXTINF:-1,TELECINE FUN HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4029
+#EXTINF:-1,TELECINE FUN HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58333
+#EXTINF:-1,TELECINE PIPOCA
+http://cms-eu-01.casap2p.online:8080/valente/123456/4024
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3390
+#EXTINF:-1,TELECINE PIPOCA FHD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58338
+#EXTINF:-1,TELECINE PIPOCA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4030
+#EXTINF:-1,TELECINE PIPOCA HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58340
+#EXTINF:-1,TELECINE PREMIUM
+http://cms-eu-01.casap2p.online:8080/valente/123456/4025
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3391
+#EXTINF:-1,TELECINE PREMIUM FHD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58345
+#EXTINF:-1,TELECINE PREMIUM HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4031
+#EXTINF:-1,TELECINE PREMIUM HD ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58347
+#EXTINF:-1,TELECINE TOUCH
+http://cms-eu-01.casap2p.online:8080/valente/123456/4026
+#EXTINF:-1,TELECINE TOUCH 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3392
+#EXTINF:-1,TELECINE TOUCH FHD ( LEGENDADOS)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58351
+#EXTINF:-1,TELECINE TOUCH HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4032
+#EXTINF:-1,TELECINE TOUCH 4K ( LEGENDADOS )
+http://cms-eu-01.casap2p.online:8080/valente/123456/58353
+#EXTINF:-1,TERRA VIVA
+http://cms-eu-01.casap2p.online:8080/valente/123456/58355
+#EXTINF:-1,Thundercats 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58356
+#EXTINF:-1,TMC 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58359
+#EXTINF:-1,TNT
+http://cms-eu-01.casap2p.online:8080/valente/123456/46928
+#EXTINF:-1,TNT 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/46717
+#EXTINF:-1,TNT HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/46716
+#EXTINF:-1,TNT SERIES
+http://cms-eu-01.casap2p.online:8080/valente/123456/3774
+#EXTINF:-1,TNT SERIES 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3394
+#EXTINF:-1,TNT SERIES HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3802
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24hs
+http://cms-eu-01.casap2p.online:8080/valente/123456/58369
+#EXTINF:-1,Tooncast
+http://cms-eu-01.casap2p.online:8080/valente/123456/3473
+#EXTINF:-1,TOONCAST 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58371
+#EXTINF:-1,Tooncast HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6389
+#EXTINF:-1,TOONCAST HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58372
+#EXTINF:-1,TOONCAST SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58373
+#EXTINF:-1,TRAVEL BOX BRASIL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58374
+#EXTINF:-1,TRU TV FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58376
+#EXTINF:-1,TRU TV HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58377
+#EXTINF:-1,TV  SAO FRANCISCO FHD ( GLOBO JUAZEIRO BAHIA) (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58378
+#EXTINF:-1,TV  SAO FRANCISCO HD ( GLOBO JUAZEIRO BAHIA) (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58379
+#EXTINF:-1,TV APARECIDA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58382
+#EXTINF:-1,TV Brasil  4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/57368
+#EXTINF:-1,TV BRASIL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58383
+#EXTINF:-1,TV BRASIL SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58384
+#EXTINF:-1,TV Centro America Cuiaba
+http://cms-eu-01.casap2p.online:8080/valente/123456/58386
+#EXTINF:-1,TV Cultura
+http://cms-eu-01.casap2p.online:8080/valente/123456/17751
+#EXTINF:-1,TV Câmara
+http://cms-eu-01.casap2p.online:8080/valente/123456/17806
+#EXTINF:-1,Tv Escola
+http://cms-eu-01.casap2p.online:8080/valente/123456/58390
+#EXTINF:-1,TV Gazeta HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/57369
+#EXTINF:-1,TV GIDEOES HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58392
+#EXTINF:-1,TV Justica
+http://cms-eu-01.casap2p.online:8080/valente/123456/58393
+#EXTINF:-1,TV Liberal Belem 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58394
+#EXTINF:-1,TV NOVO TEMPO HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/19035
+#EXTINF:-1,TV PAI ETERNO HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58398
+#EXTINF:-1,TV RA TIM BUM
+http://cms-eu-01.casap2p.online:8080/valente/123456/58400
+#EXTINF:-1,TV RA TIM BUM HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/19038
+#EXTINF:-1,TV RA TIM BUM HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58401
+#EXTINF:-1,TV RA TIM BUM SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/58402
+#EXTINF:-1,TV Senado
+http://cms-eu-01.casap2p.online:8080/valente/123456/58403
+#EXTINF:-1,TV Tem Sorocaba (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58407
+#EXTINF:-1,TV Vanguarda HD(S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58409
+#EXTINF:-1,TV Verdes Mares Fortaleza (S1)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58410
+#EXTINF:-1,UNIVERSAL CHANNEL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3395
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3714
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3713
+#EXTINF:-1,Universal Tv (H265)
+http://cms-eu-01.casap2p.online:8080/valente/123456/58413
+#EXTINF:-1,Viva
+http://cms-eu-01.casap2p.online:8080/valente/123456/3710
+#EXTINF:-1,VIVA 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/3396
+#EXTINF:-1,VIVA HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3709
+#EXTINF:-1,Warner Channel
+http://cms-eu-01.casap2p.online:8080/valente/123456/3708
+#EXTINF:-1,WARNER CHANNEL 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/6407
+#EXTINF:-1,WARNER CHANNEL HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/3707
+#EXTINF:-1,WOOHOO
+http://cms-eu-01.casap2p.online:8080/valente/123456/6641
+#EXTINF:-1,Woohoo 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58429
+#EXTINF:-1,WOOHOO HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/6640
+#EXTINF:-1,X-MAN 24HS
+http://cms-eu-01.casap2p.online:8080/valente/123456/58433
+#EXTINF:-1,ZOOMO 4K
+http://cms-eu-01.casap2p.online:8080/valente/123456/58437
+#EXTINF:-1,Zoomoo HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4969
+#EXTINF:-1,Zoomoo SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/4970
+#EXTINF:-1,JP NEWS FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62492
+#EXTINF:-1,JP NEWS HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62493
+#EXTINF:-1,RADIO MEGA HITS
+http://cms-eu-01.casap2p.online:8080/valente/123456/62502
+#EXTINF:-1,Venus SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62531
+#EXTINF:-1,24h Freakazoid!
+http://cms-eu-01.casap2p.online:8080/valente/123456/62546
+#EXTINF:-1,24h Fullmetal Alchemist
+http://cms-eu-01.casap2p.online:8080/valente/123456/62548
+#EXTINF:-1,24h Futurama
+http://cms-eu-01.casap2p.online:8080/valente/123456/62549
+#EXTINF:-1,24h GALINHA PINTADINHA
+http://cms-eu-01.casap2p.online:8080/valente/123456/62550
+#EXTINF:-1,24h GALINHA PINTADINHA MINI
+http://cms-eu-01.casap2p.online:8080/valente/123456/62551
+#EXTINF:-1,24h Game of Thrones
+http://cms-eu-01.casap2p.online:8080/valente/123456/62552
+#EXTINF:-1,24h GATO TOM
+http://cms-eu-01.casap2p.online:8080/valente/123456/62553
+#EXTINF:-1,24h GUMBALL
+http://cms-eu-01.casap2p.online:8080/valente/123456/62554
+#EXTINF:-1,24h Gárgulas
+http://cms-eu-01.casap2p.online:8080/valente/123456/62555
+#EXTINF:-1,24h Homem Aranha
+http://cms-eu-01.casap2p.online:8080/valente/123456/62556
+#EXTINF:-1,24h Hora de Aventura
+http://cms-eu-01.casap2p.online:8080/valente/123456/62558
+#EXTINF:-1,24h Hércules
+http://cms-eu-01.casap2p.online:8080/valente/123456/62559
+#EXTINF:-1,24h Jackie Chan e Amigos
+http://cms-eu-01.casap2p.online:8080/valente/123456/62561
+#EXTINF:-1,24h Jaspion
+http://cms-eu-01.casap2p.online:8080/valente/123456/62562
+#EXTINF:-1,24h KENAN E KEL
+http://cms-eu-01.casap2p.online:8080/valente/123456/62563
+#EXTINF:-1,24h Larva
+http://cms-eu-01.casap2p.online:8080/valente/123456/62564
+#EXTINF:-1,24h Little Angel
+http://cms-eu-01.casap2p.online:8080/valente/123456/62565
+#EXTINF:-1,24h LITTLE ANGEL
+http://cms-eu-01.casap2p.online:8080/valente/123456/62566
+#EXTINF:-1,24h Looney Tunes
+http://cms-eu-01.casap2p.online:8080/valente/123456/62567
+#EXTINF:-1,24h Masha e o Urso
+http://cms-eu-01.casap2p.online:8080/valente/123456/62568
+#EXTINF:-1,24h Medabots
+http://cms-eu-01.casap2p.online:8080/valente/123456/62569
+#EXTINF:-1,24h Mega Man
+http://cms-eu-01.casap2p.online:8080/valente/123456/62570
+#EXTINF:-1,24h Meu Amigãozão
+http://cms-eu-01.casap2p.online:8080/valente/123456/62571
+#EXTINF:-1,24h MIB Homens de Preto
+http://cms-eu-01.casap2p.online:8080/valente/123456/62572
+#EXTINF:-1,24h Mickey Mouse
+http://cms-eu-01.casap2p.online:8080/valente/123456/62573
+#EXTINF:-1,24h MICKEY MOUSE
+http://cms-eu-01.casap2p.online:8080/valente/123456/62574
+#EXTINF:-1,24h Miraculous Ladybug
+http://cms-eu-01.casap2p.online:8080/valente/123456/62575
+#EXTINF:-1,24h Moranguinho
+http://cms-eu-01.casap2p.online:8080/valente/123456/62577
+#EXTINF:-1,24h Mortal Kombat
+http://cms-eu-01.casap2p.online:8080/valente/123456/62578
+#EXTINF:-1,24h Mucha Lucha
+http://cms-eu-01.casap2p.online:8080/valente/123456/62581
+#EXTINF:-1,24h Naruto
+http://cms-eu-01.casap2p.online:8080/valente/123456/62583
+#EXTINF:-1,24h O Fantástico Mundo de Bobby
+http://cms-eu-01.casap2p.online:8080/valente/123456/62584
+#EXTINF:-1,24h O Laboratório de Dexter
+http://cms-eu-01.casap2p.online:8080/valente/123456/62586
+#EXTINF:-1,24h O Mundo de Beakman
+http://cms-eu-01.casap2p.online:8080/valente/123456/62587
+#EXTINF:-1,24h O Máskara
+http://cms-eu-01.casap2p.online:8080/valente/123456/62588
+#EXTINF:-1,24h O Show do Ze Colmeia
+http://cms-eu-01.casap2p.online:8080/valente/123456/62589
+#EXTINF:-1,24h ODDBODS
+http://cms-eu-01.casap2p.online:8080/valente/123456/62590
+#EXTINF:-1,24h Os Flintstones
+http://cms-eu-01.casap2p.online:8080/valente/123456/62592
+#EXTINF:-1,24h Os Flintstones
+http://cms-eu-01.casap2p.online:8080/valente/123456/62593
+#EXTINF:-1,24h Os Padrinhos Mágicos
+http://cms-eu-01.casap2p.online:8080/valente/123456/62594
+#EXTINF:-1,24h Os Simpsons
+http://cms-eu-01.casap2p.online:8080/valente/123456/62595
+#EXTINF:-1,24h OS SIMPSONS
+http://cms-eu-01.casap2p.online:8080/valente/123456/62596
+#EXTINF:-1,24h Os Super Patos
+http://cms-eu-01.casap2p.online:8080/valente/123456/62597
+#EXTINF:-1,24h Padrinhos Mágicos
+http://cms-eu-01.casap2p.online:8080/valente/123456/62600
+#EXTINF:-1,24h Papa Léguas
+http://cms-eu-01.casap2p.online:8080/valente/123456/62601
+#EXTINF:-1,24h Patati e Patatá
+http://cms-eu-01.casap2p.online:8080/valente/123456/62602
+#EXTINF:-1,24h Patrulha Canina
+http://cms-eu-01.casap2p.online:8080/valente/123456/62603
+#EXTINF:-1,24h Peppa Pig
+http://cms-eu-01.casap2p.online:8080/valente/123456/62605
+#EXTINF:-1,24h PEPPA PIG
+http://cms-eu-01.casap2p.online:8080/valente/123456/62606
+#EXTINF:-1,24h Pernalonga e seus amigos
+http://cms-eu-01.casap2p.online:8080/valente/123456/62607
+#EXTINF:-1,24h Pica Pau
+http://cms-eu-01.casap2p.online:8080/valente/123456/62608
+#EXTINF:-1,24h Pinky e o Cérebro
+http://cms-eu-01.casap2p.online:8080/valente/123456/62610
+#EXTINF:-1,24h POCOYO
+http://cms-eu-01.casap2p.online:8080/valente/123456/62613
+#EXTINF:-1,24h POKEMOM MANICRAFT
+http://cms-eu-01.casap2p.online:8080/valente/123456/62614
+#EXTINF:-1,24h POKEMOM MANICRAFT
+http://cms-eu-01.casap2p.online:8080/valente/123456/62615
+#EXTINF:-1,24h Samurai Warriors
+http://cms-eu-01.casap2p.online:8080/valente/123456/62620
+#EXTINF:-1,24h She-Ra
+http://cms-eu-01.casap2p.online:8080/valente/123456/62622
+#EXTINF:-1,24h Sitio do Pica-pau Amarelo Desenho
+http://cms-eu-01.casap2p.online:8080/valente/123456/62623
+#EXTINF:-1,24h South Park
+http://cms-eu-01.casap2p.online:8080/valente/123456/62624
+#EXTINF:-1,24h South Park
+http://cms-eu-01.casap2p.online:8080/valente/123456/62625
+#EXTINF:-1,24h Steven Universo
+http://cms-eu-01.casap2p.online:8080/valente/123456/62626
+#EXTINF:-1,24h Super Choque
+http://cms-eu-01.casap2p.online:8080/valente/123456/62627
+#EXTINF:-1,24h Taz Mania
+http://cms-eu-01.casap2p.online:8080/valente/123456/62628
+#EXTINF:-1,24h THE BING BANG THEORY
+http://cms-eu-01.casap2p.online:8080/valente/123456/62629
+#EXTINF:-1,24h The Walking Dead
+http://cms-eu-01.casap2p.online:8080/valente/123456/62630
+#EXTINF:-1,24h Thundercats
+http://cms-eu-01.casap2p.online:8080/valente/123456/62631
+#EXTINF:-1,24h Timão e Pumba
+http://cms-eu-01.casap2p.online:8080/valente/123456/62632
+#EXTINF:-1,24h TODO MUNDO ODEIA O CHRIS
+http://cms-eu-01.casap2p.online:8080/valente/123456/62633
+#EXTINF:-1,24h Todo Mundo Odeia o Chris
+http://cms-eu-01.casap2p.online:8080/valente/123456/62634
+#EXTINF:-1,24h Tom & Jerry
+http://cms-eu-01.casap2p.online:8080/valente/123456/62635
+#EXTINF:-1,24h Três Espiãs Demais
+http://cms-eu-01.casap2p.online:8080/valente/123456/62637
+#EXTINF:-1,24h Turma da Pateta
+http://cms-eu-01.casap2p.online:8080/valente/123456/62639
+#EXTINF:-1,24h Um Maluco no Pedaço
+http://cms-eu-01.casap2p.online:8080/valente/123456/62640
+#EXTINF:-1,24h Uma família da pesada
+http://cms-eu-01.casap2p.online:8080/valente/123456/62641
+#EXTINF:-1,24h Ursinhos Carinhosos
+http://cms-eu-01.casap2p.online:8080/valente/123456/62643
+#EXTINF:-1,24h Vai que Cola
+http://cms-eu-01.casap2p.online:8080/valente/123456/62644
+#EXTINF:-1,24h Vikings
+http://cms-eu-01.casap2p.online:8080/valente/123456/62645
+#EXTINF:-1,24h Vikings
+http://cms-eu-01.casap2p.online:8080/valente/123456/62646
+#EXTINF:-1,24h X-men
+http://cms-eu-01.casap2p.online:8080/valente/123456/62647
+#EXTINF:-1,24h Zé Colméia
+http://cms-eu-01.casap2p.online:8080/valente/123456/62648
+#EXTINF:-1,Eleven Sports HD 12
+http://cms-eu-01.casap2p.online:8080/valente/123456/62649
+#EXTINF:-1,Eleven Sports HD 13
+http://cms-eu-01.casap2p.online:8080/valente/123456/62650
+#EXTINF:-1,Eleven Sports HD 14
+http://cms-eu-01.casap2p.online:8080/valente/123456/62651
+#EXTINF:-1,Eleven Sports HD 15
+http://cms-eu-01.casap2p.online:8080/valente/123456/62652
+#EXTINF:-1,Eleven Sports HD 16
+http://cms-eu-01.casap2p.online:8080/valente/123456/62653
+#EXTINF:-1,Eleven Sports HD 17
+http://cms-eu-01.casap2p.online:8080/valente/123456/62654
+#EXTINF:-1,Eleven Sports HD 18
+http://cms-eu-01.casap2p.online:8080/valente/123456/62655
+#EXTINF:-1,Eleven Sports HD 19
+http://cms-eu-01.casap2p.online:8080/valente/123456/62656
+#EXTINF:-1,Conmebol 1 FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62657
+#EXTINF:-1,Conmebol 1 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62658
+#EXTINF:-1,Conmebol 1 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62659
+#EXTINF:-1,Conmebol 2 FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62660
+#EXTINF:-1,Conmebol 2 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62661
+#EXTINF:-1,Conmebol 2 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62662
+#EXTINF:-1,Conmebol 3 FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62663
+#EXTINF:-1,Conmebol 3 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62664
+#EXTINF:-1,Conmebol 3 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62665
+#EXTINF:-1,Conmebol 4 FHD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62666
+#EXTINF:-1,Conmebol 4 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62667
+#EXTINF:-1,Conmebol 4 SD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62668
+#EXTINF:-1,Conmebol 6 HD
+http://cms-eu-01.casap2p.online:8080/valente/123456/62669
