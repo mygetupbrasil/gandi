@@ -1,56 +1,211 @@
-#EXTINF:-1,RECORD NEWS FHD
-http://solutionplay.xyz:8080/techruthes/10987658/6104
-#EXTINF:-1,EVANGELIZAR HD
-http://solutionplay.xyz:8080/techruthes/10987658/5921
-#EXTINF:-1,TV APARECIDA HD
-http://solutionplay.xyz:8080/techruthes/10987658/6047
-#EXTINF:-1,SBT HD
-http://solutionplay.xyz:8080/techruthes/10987658/27332
-#EXTINF:-1,RECORD SP HD
-http://solutionplay.xyz:8080/techruthes/10987658/27306
-#EXTINF:-1,BAND SP HD
-http://solutionplay.xyz:8080/techruthes/10987658/27348
-#EXTINF:-1,TV SENADO HD
-http://solutionplay.xyz:8080/techruthes/10987658/27361
-#EXTINF:-1,TV DIÁRIO HD
-http://solutionplay.xyz:8080/techruthes/10987658/27362
-#EXTINF:-1,REDETV HD
-http://solutionplay.xyz:8080/techruthes/10987658/27367
-#EXTINF:-1,CULTURA HD
-http://solutionplay.xyz:8080/techruthes/10987658/27371
-#EXTINF:-1,CANAL DO BOI
-http://solutionplay.xyz:8080/techruthes/10987658/27372
-#EXTINF:-1,FISH TV HD
-http://solutionplay.xyz:8080/techruthes/10987658/27399
-#EXTINF:-1,FOX SPORTS 2 HD
-http://solutionplay.xyz:8080/techruthes/10987658/27395
-#EXTINF:-1,BAND SPORTS HD
-http://solutionplay.xyz:8080/techruthes/10987658/27375
-#EXTINF:-1,SPORTV 2 HD
-http://solutionplay.xyz:8080/techruthes/10987658/20886
-#EXTINF:-1,A&E HD
-http://solutionplay.xyz:8080/techruthes/10987658/27103
-#EXTINF:-1,AMC HD
-http://solutionplay.xyz:8080/techruthes/10987658/27115
-#EXTINF:-1,COMEDY CENTRAL HD
-http://solutionplay.xyz:8080/techruthes/10987658/27119
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://solutionplay.xyz:8080/techruthes/10987658/27170
-#EXTINF:-1,MEGAPIX HD
-http://solutionplay.xyz:8080/techruthes/10987658/27195
-#EXTINF:-1,BAND SP FHD ¹
-http://solutionplay.xyz:8080/techruthes/10987658/27346
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/10987658/27712
-#EXTINF:-1,DISCOVERY TURBO HD
-http://solutionplay.xyz:8080/techruthes/10987658/27739
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://solutionplay.xyz:8080/techruthes/10987658/27717
-#EXTINF:-1,ANIMAL PLANET HD
-http://solutionplay.xyz:8080/techruthes/10987658/27681
-#EXTINF:-1,HISTORY CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/10987658/27688
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://solutionplay.xyz:8080/techruthes/10987658/27706
-#EXTINF:-1,NICKELODEON HD
-http://solutionplay.xyz:8080/techruthes/10987658/27676
+#EXTM3U
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Acre" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Acre SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49461
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Araxá" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Araxá SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/76944
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Bahia SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32912
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Bahia SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45502
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bauru" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Bauru SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45506
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bauru" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Bauru SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49453
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Belém" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Belém SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/39551
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Belém" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Belém SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/86479
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasília" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Brasília SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/46386
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasília" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Brasília SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45484
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Campinas" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Campinas SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32898
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Campinas" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Campinas SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45480
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Caxias do Sul" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Caxias do Sul SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49483
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Ceará" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Ceará SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49460
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Curitiba" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Curitiba SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45498
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Curitiba" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Curitiba SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49443
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Florianópolis" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Florianópolis SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49454
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Fortaleza" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Fortaleza SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45516
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Fortaleza" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Fortaleza SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49451
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Goiás" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Goiás SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45500
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Goiás" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Goiás SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49444
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Itabuna" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Itabuna SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/71450
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Manaus" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Manaus SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/44975
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Maranhão" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Maranhão SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49448
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Mato Grosso do Sul" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Mato Grosso do Sul SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/100794
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Mato Grosso" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Mato Grosso SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45503
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Mato Grosso" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Mato Grosso SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49445
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Minas SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32873
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Minas SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45486
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Natal" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Natal SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45494
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Natal" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Natal SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49464
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Nordeste SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/46387
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Nordeste SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45488
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo P. Alegre" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo P. Alegre SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45496
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo P. Alegre" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo P. Alegre SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/71448
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo P. Prudente" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo P. Prudente SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/86120
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Pernambuco" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Pernambuco SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/102517
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Porto Velho" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Porto Velho SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49468
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Ribeirão Preto" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Ribeirão Preto SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33833
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Ribeirão Preto" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Ribeirão Preto SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32893
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo RJ SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32830
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo RJ SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45490
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Roraima" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Roraima SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49465
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo S.J. do Rio Preto" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo S.J. do Rio Preto SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45508
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo S.J. do Rio Preto" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo S.J. do Rio Preto SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49450
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo S.J. dos Campos" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo S.J. dos Campos SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/39552
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo S.J. dos Campos" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo S.J. dos Campos SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45514
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Santos" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Santos SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/39802
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Santos" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Santos SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45512
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Carlos" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo São Carlos SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/39797
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Carlos" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo São Carlos SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45482
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Sorocaba" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Sorocaba SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45510
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Sorocaba" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Sorocaba SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49452
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo SP" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo SP SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32810
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo SP" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo SP SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/45492
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Uberlândia" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Uberlândia SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/100795
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Vitória" tvg-logo="http://i.img8.xyz/_logos/globo_sd.png" group-title="tv • CANAIS GLOBO",Globo Vitória SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/39559
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas" tvg-logo="http://i.img8.xyz/_logos/band_sd.png" group-title="tv • CANAIS ABERTOS",Band Campinas SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33137
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Ribeirão Preto" tvg-logo="http://i.img8.xyz/_logos/band_sd.png" group-title="tv • CANAIS ABERTOS",Band Ribeirão Preto SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/42937
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Ribeirão Preto" tvg-logo="http://i.img8.xyz/_logos/band_sd.png" group-title="tv • CANAIS ABERTOS",Band Ribeirão Preto SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/74875
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP" tvg-logo="http://i.img8.xyz/_logos/band_sd.png" group-title="tv • CANAIS ABERTOS",Band SP SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33139
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP" tvg-logo="http://i.img8.xyz/_logos/band_sd.png" group-title="tv • CANAIS ABERTOS",Band SP SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33755
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="http://i.img8.xyz/_logos/boi_sd.png" group-title="tv • CANAIS ABERTOS",Canal do Boi SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/63873
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="http://i.img8.xyz/_logos/canalrural_sd.png" group-title="tv • CANAIS ABERTOS",Canal Rural SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/63875
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura" tvg-logo="http://i.img8.xyz/_logos/cultura_sd.png" group-title="tv • CANAIS ABERTOS",Cultura SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32329
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura" tvg-logo="http://i.img8.xyz/_logos/cultura_sd.png" group-title="tv • CANAIS ABERTOS",Cultura SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32330
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura" tvg-logo="http://i.img8.xyz/_logos/futura_sd.png" group-title="tv • CANAIS ABERTOS",Futura SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32921
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura" tvg-logo="http://i.img8.xyz/_logos/futura_sd.png" group-title="tv • CANAIS ABERTOS",Futura SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32922
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Record " tvg-logo="http://i.img8.xyz/_logos/record_sd.png" group-title="tv • CANAIS ABERTOS",Record  SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32529
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Record " tvg-logo="http://i.img8.xyz/_logos/record_sd.png" group-title="tv • CANAIS ABERTOS",Record  SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32527
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Record Interior SP" tvg-logo="http://i.img8.xyz/_logos/record_sd.png" group-title="tv • CANAIS ABERTOS",Record Interior SP SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/42909
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record Interior SP" tvg-logo="http://i.img8.xyz/_logos/record_sd.png" group-title="tv • CANAIS ABERTOS",Record Interior SP SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/74878
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Record Minas" tvg-logo="http://i.img8.xyz/_logos/record_sd.png" group-title="tv • CANAIS ABERTOS",Record Minas SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49485
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record RJ" tvg-logo="http://i.img8.xyz/_logos/record_sd.png" group-title="tv • CANAIS ABERTOS",Record RJ SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/44111
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP" tvg-logo="http://i.img8.xyz/_logos/record_sd.png" group-title="tv • CANAIS ABERTOS",Record SP SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/49442
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil" tvg-logo="http://i.img8.xyz/_logos/redebrasil_sd.png" group-title="tv • CANAIS ABERTOS",Rede Brasil SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33819
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV" tvg-logo="http://i.img8.xyz/_logos/redetv_sd.png" group-title="tv • CANAIS ABERTOS",Rede TV SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32498
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV" tvg-logo="http://i.img8.xyz/_logos/redetv_sd.png" group-title="tv • CANAIS ABERTOS",Rede TV SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32499
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Interior SP" tvg-logo="http://i.img8.xyz/_logos/sbt_sd.png" group-title="tv • CANAIS ABERTOS",SBT Interior SP SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/42927
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Interior SP" tvg-logo="http://i.img8.xyz/_logos/sbt_sd.png" group-title="tv • CANAIS ABERTOS",SBT Interior SP SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/74873
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="http://i.img8.xyz/_logos/sbt_sd.png" group-title="tv • CANAIS ABERTOS",SBT SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32489
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="http://i.img8.xyz/_logos/sbt_sd.png" group-title="tv • CANAIS ABERTOS",SBT SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32491
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Câmara" tvg-logo="http://i.img8.xyz/_logos/tvcamera_sd.png" group-title="tv • CANAIS ABERTOS",TV Câmara SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/34270
+#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça" tvg-logo="http://i.img8.xyz/_logos/tvjustica_sd.png" group-title="tv • CANAIS ABERTOS",TV Justiça SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/70240
+#EXTINF:-1 tvg-id="" tvg-name="TV Thathi" tvg-logo="http://i.img8.xyz/_logos/tvthati_sd.png" group-title="tv • CANAIS ABERTOS",TV Thathi SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/95848
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="http://i.img8.xyz/_logos/bis_sd.png" group-title="tv • MUSICAIS",BIS SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33116
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS" tvg-logo="http://i.img8.xyz/_logos/bis_sd.png" group-title="tv • MUSICAIS",BIS SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33117
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV " tvg-logo="http://i.img8.xyz/_logos/mtv_sd.png" group-title="tv • MUSICAIS",MTV  SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32662
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV " tvg-logo="http://i.img8.xyz/_logos/mtv_sd.png" group-title="tv • MUSICAIS",MTV  SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32663
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1" tvg-logo="http://i.img8.xyz/_logos/vh1_sd.png" group-title="tv • MUSICAIS",VH1 SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32305
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1" tvg-logo="http://i.img8.xyz/_logos/vh1_sd.png" group-title="tv • MUSICAIS",VH1 SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32302
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova" tvg-logo="http://i.img8.xyz/_logos/tvcancaonova_sd.png" group-title="tv • RELIGIOSOS",Canção Nova SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/33095
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://i.img8.xyz/_logos/seculo21_sd.png" group-title="tv • RELIGIOSOS",Rede Século 21 SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/35525
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida" tvg-logo="http://i.img8.xyz/_logos/redevida_sd.png" group-title="tv • RELIGIOSOS",Rede Vida SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32494
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida" tvg-logo="http://i.img8.xyz/_logos/redevida_sd.png" group-title="tv • RELIGIOSOS",Rede Vida SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32495
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida" tvg-logo="http://i.img8.xyz/_logos/tvaparecida_sd.png" group-title="tv • RELIGIOSOS",TV Aparecida SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/32334
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://i.img8.xyz/_logos/tvevangelizar_sd.png" group-title="tv • RELIGIOSOS",TV Evangelizar SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/66968
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo" tvg-logo="http://i.img8.xyz/_logos/novotempo_sd.png" group-title="tv • RELIGIOSOS",TV Novo Tempo SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/42904
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo" tvg-logo="http://i.img8.xyz/_logos/novotempo_sd.png" group-title="tv • RELIGIOSOS",TV Novo Tempo SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/74848
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="http://i.img8.xyz/_logos/paieterno_sd.png" group-title="tv • RELIGIOSOS",TV Pai Eterno SD₁
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/42907
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="http://i.img8.xyz/_logos/paieterno_sd.png" group-title="tv • RELIGIOSOS",TV Pai Eterno SD₂
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/74887
+#EXTINF:-1 tvg-id="" tvg-name="  O que é CDN?" tvg-logo="http://i.img8.xyz/_logos/oquee_cdn.png" group-title="• CONFIGURAR CDN",  O que é CDN?
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/48388
+#EXTINF:-1 tvg-id="" tvg-name=" Status da CDN" tvg-logo="http://i.img8.xyz/_logos/status_cdn.png" group-title="• CONFIGURAR CDN", Status da CDN
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/48404
+#EXTINF:-1 tvg-id="" tvg-name="Ativar CDN" tvg-logo="http://i.img8.xyz/_logos/ativar_cdn.png" group-title="• CONFIGURAR CDN",Ativar CDN
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/48405
+#EXTINF:-1 tvg-id="" tvg-name="Desativar CDN" tvg-logo="http://i.img8.xyz/_logos/desativar_cdn.png" group-title="• CONFIGURAR CDN",Desativar CDN
+http://n.srv1.xyz:8880/listatst/hz9db8zvc8/48406
