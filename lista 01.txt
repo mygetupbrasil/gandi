@@ -1,0 +1,56 @@
+#EXTINF:-1,RECORD NEWS FHD
+http://solutionplay.xyz:8080/techruthes/10987658/6104
+#EXTINF:-1,EVANGELIZAR HD
+http://solutionplay.xyz:8080/techruthes/10987658/5921
+#EXTINF:-1,TV APARECIDA HD
+http://solutionplay.xyz:8080/techruthes/10987658/6047
+#EXTINF:-1,SBT HD
+http://solutionplay.xyz:8080/techruthes/10987658/27332
+#EXTINF:-1,RECORD SP HD
+http://solutionplay.xyz:8080/techruthes/10987658/27306
+#EXTINF:-1,BAND SP HD
+http://solutionplay.xyz:8080/techruthes/10987658/27348
+#EXTINF:-1,TV SENADO HD
+http://solutionplay.xyz:8080/techruthes/10987658/27361
+#EXTINF:-1,TV DIÁRIO HD
+http://solutionplay.xyz:8080/techruthes/10987658/27362
+#EXTINF:-1,REDETV HD
+http://solutionplay.xyz:8080/techruthes/10987658/27367
+#EXTINF:-1,CULTURA HD
+http://solutionplay.xyz:8080/techruthes/10987658/27371
+#EXTINF:-1,CANAL DO BOI
+http://solutionplay.xyz:8080/techruthes/10987658/27372
+#EXTINF:-1,FISH TV HD
+http://solutionplay.xyz:8080/techruthes/10987658/27399
+#EXTINF:-1,FOX SPORTS 2 HD
+http://solutionplay.xyz:8080/techruthes/10987658/27395
+#EXTINF:-1,BAND SPORTS HD
+http://solutionplay.xyz:8080/techruthes/10987658/27375
+#EXTINF:-1,SPORTV 2 HD
+http://solutionplay.xyz:8080/techruthes/10987658/20886
+#EXTINF:-1,A&E HD
+http://solutionplay.xyz:8080/techruthes/10987658/27103
+#EXTINF:-1,AMC HD
+http://solutionplay.xyz:8080/techruthes/10987658/27115
+#EXTINF:-1,COMEDY CENTRAL HD
+http://solutionplay.xyz:8080/techruthes/10987658/27119
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://solutionplay.xyz:8080/techruthes/10987658/27170
+#EXTINF:-1,MEGAPIX HD
+http://solutionplay.xyz:8080/techruthes/10987658/27195
+#EXTINF:-1,BAND SP FHD ¹
+http://solutionplay.xyz:8080/techruthes/10987658/27346
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/10987658/27712
+#EXTINF:-1,DISCOVERY TURBO HD
+http://solutionplay.xyz:8080/techruthes/10987658/27739
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://solutionplay.xyz:8080/techruthes/10987658/27717
+#EXTINF:-1,ANIMAL PLANET HD
+http://solutionplay.xyz:8080/techruthes/10987658/27681
+#EXTINF:-1,HISTORY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/10987658/27688
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://solutionplay.xyz:8080/techruthes/10987658/27706
+#EXTINF:-1,NICKELODEON HD
+http://solutionplay.xyz:8080/techruthes/10987658/27676
